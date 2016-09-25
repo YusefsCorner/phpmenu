@@ -24,7 +24,7 @@
   <body>
   <?php include 'menu.php';
   
-	/* top menu to	all	pages in the system using if statement*/
+	/* top menu to	all	pages in the system using if statement and include*/
     ?>
     <div class="container">
       
