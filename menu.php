@@ -1,6 +1,6 @@
 <?php $curpage = basename ($_SERVER['PHP_SELF']);
 ?>
-
+<link rel="stylesheet" href="styles.css">
 <!-- The basename() function returns the filename from a path -->
 <div id='cssmenu'>
 <ul>
